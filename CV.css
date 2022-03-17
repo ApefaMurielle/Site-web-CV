@@ -1,0 +1,57 @@
+.page{
+width: 780px;
+font-family: 'LiberationSans', Helvetica, Arial, sans-serif;
+font-size: smaller;
+margin-left: 25px;
+text-align: left;
+}
+h2{
+    margin-left:30px;
+}
+h1{
+    text-align: center;
+}
+.detailspersonnels{
+    height:200px;
+}
+.reference{
+    margin-left: 30px;
+    float: left;
+    font-weight: bold;
+}
+.inforeference{
+    float: right;
+    margin-left: 100px;
+}
+.infophoto{
+    height:200px;
+    width: 200px;
+    float:right;
+    margin-left: 100px;
+}
+.infophoto img{
+    height: 100%;
+    width: 100%;
+}
+.experienceprofessionnelle{
+    height:475px;
+}
+.periode{
+    float: left;
+    font-weight: bold;
+}
+.info{
+margin-left: 200px;
+}
+.description{
+    font-weight: bold;
+}
+.date{
+    position: relative;
+    top: 25px;
+    left: 25px;
+    margin-bottom: 125px;
+}
+.date1{
+    top: 0;
+}
